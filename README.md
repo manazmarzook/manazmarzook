@@ -1,7 +1,7 @@
 [![MasterHead](https://www.bacancytechnology.com/main-boot-5/images/mvp-services/banner.jpg?v-7)]
 <h1 align="center">Hi there👋, I'm Manaz Marzook</h1>
 <h3 align="center">A passionate Software Engineer from Sri-Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ec4a68367aa02e4a7437dc2cd3b619a7ec50be09f6152f182f4123b6a4f012d5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manazmarzook&label=Profile%20views&color=0e75b6&style=flat" alt="manazmarzook" /> </p>
 

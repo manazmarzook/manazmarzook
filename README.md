@@ -5,13 +5,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manazmarzook&show_icons=true&locale=en" alt="manazmarzook" /></p>
 
 
-- 🔭 I’m currently working on [C# Front-end Development, WPF, Data Migration, QA testing and Debugging on @netfinac](https://github.com/netfinac)
+- 🔭 Working on [C# Front-end Development, WPF, Data Migration, QA testing and Debugging on @netfinac](https://github.com/netfinac)
 
-- 🌱 I’m currently learning **Bootstrap 5.3**
+- 🌱 Currently learning **Bootstrap 5.3**
 
 - 💬 Ask me about **C#, ASP .NET, Java**
 
-- 📫 How to reach me **manazmarzook7@gmail.com**
+- 📫 Reach me on **manazmarzook7@gmail.com**
 
 - ⚡ Fun fact **Bikes + Coding >>>>> Anything else**
 

@@ -13,7 +13,7 @@
 
 - 📫 Reach me on **manazmarzook7@gmail.com**
 
-- ⚡ Fun fact **Bikes + Coding >>>>> Anything else**
+- ⚡ Fun fact -  **I use semicolons; They make me feel smarter**
 
 <p><img align="CENTER" src="https://github-readme-streak-stats.herokuapp.com/?user=manazmarzook&" alt="manazmarzook" /></p>
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bacancytechnology.com/main-boot-5/images/mvp-services/banner.jpg?v-7)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi there👋, I'm Manaz Marzook</h1>
 <h3 align="center">A passionate Software Engineer from Sri-Lanka</h3>
 
